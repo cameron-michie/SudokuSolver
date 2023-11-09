@@ -1,0 +1,7 @@
+﻿  SudokuSolver.cpp
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\Cell.h(31,10): error C2086: 'bool Cell::Editable': redefinition
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\Cell.h(34,9): error C2086: 'int Cell::value': redefinition
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\Cell.h(6,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\Cell.h(7,1): error C2011: 'Cell': 'class' type redefinition
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\Cell.h(6,7): message : see declaration of 'Cell'
+C:\Users\camer\OneDrive\Documents\Physics\year 3 sem 2\oop c++\SudokuSolver\SudokuSolver\region.h(1,10): fatal  error C1014: too many include files: depth = 1024
